@@ -1,0 +1,19 @@
+{
+  "name": "npm-sum-test",
+  "version": "1.0.0",
+  "description": "npm包开发测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liufanlola/npm-sum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liufanlola/npm-sum/issues"
+  },
+  "homepage": "https://github.com/Liufanlola/npm-sum#readme"
+}
